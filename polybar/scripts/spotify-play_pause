@@ -1,0 +1,4 @@
+#!/bin/sh
+# pauses/resumes the song played by spotify
+
+playerctl --player=spotify play-pause

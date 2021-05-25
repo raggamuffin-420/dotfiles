@@ -1,0 +1,4 @@
+#!/bin/sh
+# tells spotify to play the next song
+
+playerctl --player=spotify next

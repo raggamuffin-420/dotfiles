@@ -1,0 +1,46 @@
+#define FOREGROUND 			#CFCFCF
+#define FOREGROUNDBRIGHT	#FFFFFF
+#define BACKGROUND			#222222
+#define BACKGROUNDBRIGHT	#333333
+#define URGENT				#F57A00
+#define TINT    			#000000
+#define TEXT          		#FCFCFD
+#define CURSOR      		#1A85C5
+#define SELECTION      		#D6A600
+
+#define WMFG          		#CFCFCF
+#define WMFGBRIGHT  		#FFFFFF
+#define WMBG          		#000000
+#define WMBGBRIGHT  		#222222
+#define WMACCENTFG     		#A7FF3F
+#define WMACCENTFGBRIGHT	#D2FF6D
+#define WMACCENTBG     		#242424
+#define WMACCENTBGBRIGHT	#303030
+#define WMTEXT    			#F0F0F0
+
+#define BARFG          		#CFCFCF
+#define BARFGBRIGHT  		#FFFFFF
+#define BARBG          		#000000
+#define BARBGBRIGHT  		#222222
+#define BARACCENTFG    		#A7FF3F
+#define BARACCENTFGBRIGHT	#D2FF6D
+#define BARACCENTBG    		#242424
+#define BARACCENTBGBRIGHT	#303030
+#define BARTEXT    			#F0F0F0
+
+#define COLOR0  		    #1F1F1F
+#define COLOR8  		    #FB002A
+#define COLOR1  		    #339C24
+#define COLOR9  		    #659B25
+#define COLOR2  		    #149B45
+#define COLOR10 		    #53B82C
+#define COLOR3  		    #2CB868
+#define COLOR11 		    #E0FFEF
+#define COLOR4  		    #075523
+#define COLOR12 		    #A7FF3F
+#define COLOR5  		    #9FFF6D
+#define COLOR13 		    #D2FF6D
+#define COLOR6  		    #72FFB5
+#define COLOR14 		    #50FF3E
+#define COLOR7  		    #22FF71
+#define COLOR15 		    #DAEFD0

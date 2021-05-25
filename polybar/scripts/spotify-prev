@@ -1,0 +1,4 @@
+#!/bin/sh
+# tells spotify to play the previous song
+
+playerctl --player=spotify previous
